@@ -10,4 +10,3 @@ Skills Demonstrated
 Data Cleaning & Transformation
 Power BI Dashboard Design
 Time Series and Demographic Analysis
-Project Link: https://drive.google.com/file/d/1Ss254xahXA8gN56c36LVunKFXia86hNn/view?usp=drive_link
